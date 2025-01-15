@@ -1,6 +1,7 @@
 import React from "react";
 import Links from "./Links";
 
+
 function About({bio, github ,linkedin}) {
   return (
     <div id="about">
